@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\bin\Debug\L_HareketiOyunu.exe.config
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\bin\Debug\L_HareketiOyunu.exe
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\bin\Debug\L_HareketiOyunu.pdb
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.Form1.resources
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.Properties.Resources.resources
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.exe
+C:\Users\HP\Desktop\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.pdb
+C:\Users\HP\Desktop\Dersler\4.Yarı Yıl\Yazılım Yapımı\172804017 - ibrahimDogruer\L_HareketiOyunu\L_HareketiOyunu\bin\Debug\L_HareketiOyunu.exe.config
+C:\Users\HP\Desktop\Dersler\4.Yarı Yıl\Yazılım Yapımı\172804017 - ibrahimDogruer\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.exe
+C:\Users\HP\Desktop\Dersler\4.Yarı Yıl\Yazılım Yapımı\172804017 - ibrahimDogruer\L_HareketiOyunu\L_HareketiOyunu\obj\Debug\L_HareketiOyunu.pdb
