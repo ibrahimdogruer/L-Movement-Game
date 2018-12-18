@@ -1,3 +1,3 @@
 # L-Movement-Game
-Sadece L şeklinde hareket ederek bütün bölgeleri dolaşmanız gereken bir oyun.
-C#'ta geliştirildi.
+A game that you can only L movement.
+Developed in c#.
